@@ -33,7 +33,3 @@ Here's the updated README with your fun fact:
 
 ⚡ **Fun fact:**  
 - I love Coding with caffeine
-
----
-
-Feel free to customize this template with your actual contact information and any additional details you'd like to share.
