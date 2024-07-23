@@ -6,6 +6,7 @@
 
 👀 **I’m interested in:**  
 - Frontend Development
+- Backend Development
 - User Experience Design
 - Web Accessibility
 - Responsive Design
