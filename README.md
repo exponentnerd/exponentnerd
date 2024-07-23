@@ -12,6 +12,8 @@
 - JavaScript Frameworks (React, Vue, Angular)
 
 🌱 **I’m currently learning:**  
+- Python
+- Golang
 - Advanced React Patterns
 - TypeScript
 - Progressive Web Apps (PWAs)
